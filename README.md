@@ -1,2 +1,2 @@
 # IPI-JavaSpringBoot
-Maxime ANCELIN / Camille MICHAUD-MELI / Esteban LOUERAT
+Maxime ANCELIN / Camille MICHAUD-MELI / Esteban LOUERAT/Matthieu Vilmen
